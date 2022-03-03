@@ -1,0 +1,11 @@
+numpy
+pandas
+sklearn
+torch
+tqdm
+transformers
+tensorboardX
+torchvision
+IProgress
+ipywidgets
+typing
